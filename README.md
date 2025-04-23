@@ -60,7 +60,7 @@ intel x86 explain (mahmoud karem)(i do not seen it)==>https://youtube.com/playli
 
 OSTEP==>https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-OSC==>https://youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n&si=G5wOrs2Ws1GRK4-g
+OSC==>[https://youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n&si=G5wOrs2Ws1GRK4-g](https://youtube.com/playlist?list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV&si=zdeSRMs4EOSvNOwW)
 
 CMU digital design computer architecture==>https://youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n&si=G5wOrs2Ws1GRK4-g
 
