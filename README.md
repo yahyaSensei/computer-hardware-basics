@@ -36,6 +36,8 @@ https://www.youtube.com/playlist?list=PLMSBalys69yxoIjeZ2Q3fxs69cGCU14B1
 https://www.youtube.com/playlist?list=PLMSBalys69yw1tSoF42QW9jbbC0-UeCAy
 
 
+https://eater.net/
+
 ===================================================
 
 MIT intro==>https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
