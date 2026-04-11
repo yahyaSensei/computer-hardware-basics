@@ -84,4 +84,8 @@ compilers(stanford)==>https://www.edx.org/learn/computer-science/stanford-univer
 
 compilers(neso)==>https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
 
+compiler by C==>https://www.buildyourownlisp.com/
+
+compilers(robert nystrom)=>https://craftinginterpreters.com/
+
 stanford pwn course==>https://pwn.college/
